@@ -5,15 +5,13 @@
 
 Tecnologia | Progresso
 ---------- | ------
-Javascript | ![40%](https://progress-bar.dev/40)
-Next.js    | R$ 8
-React.js   | R$ 7
-HTML       | R$ 8
-CSS        | R$ 8
+Javascript | ![60%](https://progress-bar.dev/60)
+Next.js    | ![20%](https://progress-bar.dev/20)
+React.js   | ![5%](https://progress-bar.dev/5)
+HTML       | ![50%](https://progress-bar.dev/50)
+CSS        | ![20%](https://progress-bar.dev/20)
 
 ## Jobs
 
 ## Projects
-![](https://progress-bar.dev/50)
-![](https://progress-bar.dev/50)
-![](https://progress-bar.dev/50)
+
