@@ -3,6 +3,10 @@
 
 ## Skills
 
+![50%](https://progress-bar.dev/50)
+![70%](https://progress-bar.dev/50)
+![30%](https://progress-bar.dev/50)
+
 ## Jobs
 
 ## Projects
