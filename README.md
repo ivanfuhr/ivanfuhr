@@ -3,10 +3,17 @@
 
 ## Skills
 
-![50%](https://progress-bar.dev/50)
-![70%](https://progress-bar.dev/50)
-![30%](https://progress-bar.dev/50)
+Tecnologia | Progresso
+---------- | ------
+Javascript | ![40%](https://progress-bar.dev/40)
+Next.js    | R$ 8
+React.js   | R$ 7
+HTML       | R$ 8
+CSS        | R$ 8
 
 ## Jobs
 
 ## Projects
+![](https://progress-bar.dev/50)
+![](https://progress-bar.dev/50)
+![](https://progress-bar.dev/50)
