@@ -18,4 +18,4 @@ https://github.com/ivanfuhr/mypiggy
 Nome       | Descrição                                                                    | Link                                | Status            |
 -----------|------------------------------------------------------------------------------|-------------------------------------|-------------------|
 ECommerce | Sistema completo de Loja Virtual, CRUD, Checkout, Gerenciamento de estoque... |https://github.com/ivanfuhr/ecommerce| Em planejamento   | 
-MyPiggy   | Sistema de controle financeiro                                                |https://github.com/ivanfuhr/ecommerce| Em desenvolvimento| 
+MyPiggy   | Sistema de controle financeiro                                                |https://github.com/ivanfuhr/mypiggy  | Em desenvolvimento| 
