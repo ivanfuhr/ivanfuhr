@@ -17,4 +17,4 @@ CSS         |
 ## Projects
 Nome       | Descrição                                                                    | Link                                | Status         |
 -----------|------------------------------------------------------------------------------|-------------------------------------|----------------|
-E-Commerce | Sistema completo de Loja Virtual, CRUD, Checkout, Gerenciamento de estoque...|https://github.com/ivanfuhr/ecommerce| Em planejamento| 
+ECommerce | Sistema completo de Loja Virtual, CRUD, Checkout, Gerenciamento de estoque...|https://github.com/ivanfuhr/ecommerce| Em planejamento| 
