@@ -15,6 +15,6 @@ CSS         |
 ## Jobs
 
 ## Projects
-Nome       | Descrição                                                                    | Link  | 
------------|------------------------------------------------------------------------------|-------|
-E-Commerce | Sistema completo de Loja Virtual, CRUD, Checkout, Gerenciamento de estoque...|tes.com|
+Nome       | Descrição                                                                    | Link                                | 
+-----------|------------------------------------------------------------------------------|-------------------------------------|
+E-Commerce | Sistema completo de Loja Virtual, CRUD, Checkout, Gerenciamento de estoque...|https://github.com/ivanfuhr/ecommerce|
