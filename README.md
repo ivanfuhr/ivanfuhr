@@ -12,10 +12,8 @@ React.js    |
 HTML        | 
 CSS         | 
 
-## Jobs
-https://github.com/ivanfuhr/mypiggy
 ## Projects
 Nome       | Descrição                                                                    | Link                                | Status            |
 -----------|------------------------------------------------------------------------------|-------------------------------------|-------------------|
-ECommerce | Sistema completo de Loja Virtual, CRUD, Checkout, Gerenciamento de estoque... |https://github.com/ivanfuhr/ecommerce| Em planejamento   | 
-MyPiggy   | Sistema de controle financeiro                                                |https://github.com/ivanfuhr/mypiggy  | Em desenvolvimento| 
+Bin2Dec    | Conversor de número binário para decimal	(App-Ideas)                         |https://github.com/ivanfuhr/Bin2Dec  | Em planejamento   | 
+ 
