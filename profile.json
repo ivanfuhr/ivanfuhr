@@ -6,7 +6,15 @@
   "skills": [
     {
       "name": "Java",
+      "level": 3
+    },
+    {
+      "name": "Node.JS",
       "level": 5
+    },
+    {
+      "name": "PHP",
+      "level": 4
     }
   ]
 }
