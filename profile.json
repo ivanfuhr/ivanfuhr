@@ -1,0 +1,12 @@
+{
+  "name": "Ivan Führ",
+  "office": "Sou desenvolvedor fullstack na DBServer.",
+  "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed diam urna, euismod at porttitor in, dignissim eu mauris. In sem nibh, viverra eu risus sed, accumsan luctus dui. Fusce ex neque, maximus quis dui et, rutrum sollicitudin sem. elit. Sed diam urna, euismod at porttitor in, dignissim eu mauris. In sem nibh, viverra eu risus sed, accumsan luctus dui. Fusce ex neque, maximus quis dui et, rutrum sollicitudin sem.",
+  "picture": "https://avatars.githubusercontent.com/u/72282810?v=4",
+  "skills": [
+    {
+      "name": "Java",
+      "level": 3
+    }
+  ]
+}
